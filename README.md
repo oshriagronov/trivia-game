@@ -53,5 +53,9 @@ The project is completed but no longer get updated, because it was part of a cou
 ### Known issues
 * if you close the server and run it immediately then it will give you error that the port or the ip already catch so you need to wait a while and then it will work
 
+## Acknowledgements
+I would want to thank CampusIL and the team behind the Network.py course!
+> Link to the course home page [here](https://campus.gov.il/course/cs-gov-cs-networkpy103-2020-1/)
+
 ## Contact
 Created by Oshri Agronov, feel free to contact me:v:
