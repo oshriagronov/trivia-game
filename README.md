@@ -1,6 +1,6 @@
 # Trivia Game(server based) - Project written in python(readme still in progress)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-> The project is basically a trivia game running by a server, with users database and questions database.
+> The project is basically a trivia game running by a server, with users database and questions database😄
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -48,7 +48,10 @@ $ cd ../"The folder you download the flies"
 $ python trivia_client.py
 ```
 ## Project Status
+The project is completed but no longer update because it was part of my course and i moved on to other project ⚡
 
-### bugs
+### Known issues
+* if you close the server and run it immediately then it will give you error that the port or the ip already catch so you need to wait a while and then it will work
+
 ## Contact
 Created by Oshri Agronov, feel free to contact me:v:
