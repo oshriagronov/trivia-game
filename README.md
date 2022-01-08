@@ -48,7 +48,7 @@ $ cd ../"The folder you download the flies"
 $ python trivia_client.py
 ```
 ## Project Status
-The project is completed but no longer update because it was part of my course and i moved on to other project ⚡
+The project is completed but no longer get updated, because it was part of a course i took, and i moved on to other courses to expand my knowledge ⚡
 
 ### Known issues
 * if you close the server and run it immediately then it will give you error that the port or the ip already catch so you need to wait a while and then it will work
