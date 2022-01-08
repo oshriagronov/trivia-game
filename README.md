@@ -1,6 +1,6 @@
 # Trivia Game(server based) - Project written in python(readme still in progress)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-
+>  This project is a trivia game running by a server, with users database and questions database.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-- This project is a trivia game running by a server! ,you can compete with your friends to see who have higher score:smile:
+- The server have a score system so you can compete with your friends to see who have higher score :smile:
 - The server have database of users, you(the admin) can add and remove users from the database.
 - The server have a quetion database, at the moment the database has only two questions, because i didn't need more than that for the server testing but you can add more!
 	
