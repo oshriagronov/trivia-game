@@ -10,14 +10,15 @@
 * [Contact](#contact)
 
 ## General info
-- 
--
+- This project is a trivia game running by a server! ,you can compete with your friends to see who have higher score:smile:
+- The server have database of users, you(the admin) can add and remove users from the database
+- The server have a quetion database, at the moment the database has only two questions(because i didn't need more than that for the server testing) but you can add more!
 	
 ## Technologies
 Project is created with:
 * python version: 3.9 .
 * visual studio code.
-* socket - Library used to setup local server and to send messages bettwen the server and the client.
+* socket - Library used to setup local server and to send messages bettwen the server with ip address to the client and back.
 * select - The library tells the kernel to notify when any of the descriptors in the sets are ready for read/write/exception conditions.
 * chatlib - A custom library that have all the functions that make the client and server messages correct according to the protocol we maked.
 
@@ -30,8 +31,8 @@ Project is created with:
 ![Example screenshot](./img/"enter the img name".png)
 
 ## Setup
-how to run this project?
-1.
+first of all you need to install python on your computer.
+1. download all the files.
 
 example of run code:
 ```
