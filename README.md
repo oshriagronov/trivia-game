@@ -7,6 +7,7 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Project Status](#project-status)
 * [Contact](#contact)
 
 ## General info
@@ -46,6 +47,8 @@ $ python trivia_server.py
 $ cd ../"The folder you download the flies"
 $ python trivia_client.py
 ```
+## Project Status
 
+### bugs
 ## Contact
 Created by Oshri Agronov, feel free to contact me:v:
