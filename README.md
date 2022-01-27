@@ -31,7 +31,7 @@ Project is created with:
 - You have dictionary database of question you can expand as much as you want.
 - A custom library that responsibility for building messages with correct structure according to the protocol.
 
-## Screenshots(Need to add screenshots)
+## Screenshots
 > server booting.
 
 ![server pic](./assets/server pic.png)
