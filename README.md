@@ -34,12 +34,12 @@ Project is created with:
 ## Screenshots
 > server booting.
 
-![server pic](./assets/server pic.png)
+![pic1](./assets/pic2.png)
 
 
 > Example to process of game.
 
-![server client pic](./assets/server client pic.png)
+![pic1](./assets/pic1.png)
 
 ## Setup
 * First of all you need to install python on your computer and write your ip in both server and client script.
