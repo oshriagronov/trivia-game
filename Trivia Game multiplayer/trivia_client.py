@@ -2,7 +2,7 @@ import socket
 import chatlib  # To use chatlib functions or consts, use chatlib.****
 import os
 import time
-SERVER_IP = "here enter your ip address with the quotes"  # Our server will run on same computer as client
+SERVER_IP = "127.0.0.1"  # Our server will run on same computer as client
 SERVER_PORT = 5678
 
 # Build/Send/Receive message from the server functions
