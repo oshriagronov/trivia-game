@@ -14,8 +14,12 @@ answer_global = ""
 client_sockets = []
 
 ERROR_MSG = "Error! "
+'''
+don't change the ip or the port, 127.0.0.1 is a special address, aka INADDR_LOOPBACK, that means "bind localhost only on the loopback device". 
+There's no way to reach anything but the local host itself on that socket.
+'''
 SERVER_PORT = 5678
-SERVER_IP = "0.0.0.0" #Here you enter your ip.
+SERVER_IP = "127.0.0.1"
 
 
 ##### HELPER SOCKET METHODS
