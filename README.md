@@ -32,7 +32,14 @@ Project is created with:
 - A custom library that responsibility for building messages with correct structure according to the protocol.
 
 ## Screenshots(Need to add screenshots)
-![Example screenshot](./img/"enter the img name".png)
+> server booting.
+
+![server pic](./assets/server pic.png)
+
+
+> Example to process of game.
+
+![server client pic](./assets/server client pic.png)
 
 ## Setup
 * First of all you need to install python on your computer and write your ip in both server and client script.
