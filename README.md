@@ -1,6 +1,6 @@
 # Trivia Game(server based) - Written in python
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-> The project is basically a trivia game running by a server, with users database and questions database😄
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)<br>
+The project is basically a trivia game running by a local server, with users and questions database😄
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
