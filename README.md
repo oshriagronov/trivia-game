@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/oshriagronov/trivia-game && cd trivia-game
    ```
 
-2. **Open two seprate terminals/cmd windows an run:**
+2. **Open two seprate terminal/cmd windows an run:**
 	<br/> first run:
    ```bash
    python trivia_server.py
